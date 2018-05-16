@@ -1,0 +1,9 @@
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\bin\Debug\Fresenius-Importer.exe.config
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\bin\Debug\Fresenius-Importer.exe
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\bin\Debug\Fresenius-Importer.pdb
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\bin\Debug\Excel.dll
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\bin\Debug\Excel.pdb
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\obj\Debug\Fresenius-Importer.exe
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\obj\Debug\Fresenius-Importer.pdb
+C:\Users\Ondrej Kuchár\Documents\SharpDevelop Projects\Fresenius-Importer\Fresenius-Importer\obj\Debug\Fresenius-Importer.csprojResolveAssemblyReference.cache
